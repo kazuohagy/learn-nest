@@ -11,3 +11,7 @@ Criar modulo
 ```
 nest g module tasks
 ```
+Criar classe
+```
+nest g class tasks/shared/task
+```
