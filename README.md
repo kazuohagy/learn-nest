@@ -15,3 +15,7 @@ Criar classe
 ```
 nest g class tasks/shared/task
 ```
+Criar service
+```
+nest g service tasks
+```
