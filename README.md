@@ -19,3 +19,12 @@ Criar service
 ```
 nest g service tasks
 ```
+Criar dto created e update
+```
+nest g provider supplier/dto/create-supplier.dto
+```
+```
+nest g provider supplier/dto/update-supplier.dto
+```
+Criar entity
+nest g provider supplier/entity/supplier.entity
