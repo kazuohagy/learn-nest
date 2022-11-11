@@ -33,4 +33,5 @@ nest g provider supplier/entity/supplier.entity
 Criar tudo
 ```
 nest g resource supplier
+
 ```
